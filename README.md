@@ -1,3 +1,5 @@
+![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif)
+
 ### Hi there 👋
 
 🦄 My name is Alistair. I'm a fifteen year old TypeScript developer with a passion for clothing and streetwear. In my spare time, I write scripts to automate the process of purchasing sought after & limited garments online to then be resold at a greater price.
