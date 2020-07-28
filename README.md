@@ -1,4 +1,4 @@
-![image](space.gif)
+![image](https://github.com/aabbccsmith/aabbccsmith/raw/master/space.gif)
 
 ### Hi there 👋
 
