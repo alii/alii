@@ -1,6 +1,4 @@
-![image](https://github.com/aabbccsmith/aabbccsmith/raw/master/space.gif)
-
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
 🦄 My name is Alistair. I'm a fifteen year old <img src="https://img.icons8.com/color/48/000000/typescript.png" height="16px" /> TypeScript developer with a passion for clothing and streetwear. In my spare time, I write scripts to automate the process of purchasing sought after & limited garments online to then be resold at a greater price.
 
